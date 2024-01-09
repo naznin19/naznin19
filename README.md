@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naznin19
 - 👀 I’m interested in learning new technologies and building projects using them. 
-- 🌱 I’m currently working at AsthaIT and doing manual and automation testing on various different kinds of projects. 
+- 🌱 I’m currently working on manual and automation testing on various different kinds of projects. 
 - 📫 You can reach me on linkedIn. My linkedIn profile link is : https://www.linkedin.com/in/sabiha-naznin-092/
 
 <!---
